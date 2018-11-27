@@ -1,0 +1,48 @@
+E:\Test\DateChecker\DateChecker\bin\Debug\DateChecker.exe.config
+E:\Test\DateChecker\DateChecker\bin\Debug\DateChecker.exe
+E:\Test\DateChecker\DateChecker\bin\Debug\DateChecker.pdb
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.csprojAssemblyReference.cache
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.Form1.resources
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.Properties.Resources.resources
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.csproj.GenerateResource.cache
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.csproj.CoreCompileInputs.cache
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.exe
+E:\Test\DateChecker\DateChecker\obj\Debug\DateChecker.pdb
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\bin\Debug\DateChecker.exe.config
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\bin\Debug\DateChecker.exe
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\bin\Debug\DateChecker.pdb
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\bin\Debug\nunit.framework.dll
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\bin\Debug\nunit.framework.xml
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csprojAssemblyReference.cache
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.Form1.resources
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.Properties.Resources.resources
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.GenerateResource.cache
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.CoreCompileInputs.cache
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.CopyComplete
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.exe
+E:\HUFLIT\Kiểm thử phần mềm\datetimechecker-master\DateChecker\obj\Debug\DateChecker.pdb
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\bin\Debug\DateChecker.exe.config
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\bin\Debug\DateChecker.exe
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\bin\Debug\DateChecker.pdb
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\bin\Debug\nunit.framework.dll
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\bin\Debug\nunit.framework.xml
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csprojAssemblyReference.cache
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.Form1.resources
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.Properties.Resources.resources
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.GenerateResource.cache
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.CoreCompileInputs.cache
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.CopyComplete
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.exe
+C:\Users\Cho Nhia\Desktop\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.pdb
+D:\Duy\datetimechecker-master\DateChecker\bin\Debug\DateChecker.exe.config
+D:\Duy\datetimechecker-master\DateChecker\bin\Debug\DateChecker.exe
+D:\Duy\datetimechecker-master\DateChecker\bin\Debug\DateChecker.pdb
+D:\Duy\datetimechecker-master\DateChecker\bin\Debug\nunit.framework.xml
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csprojAssemblyReference.cache
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.Form1.resources
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.Properties.Resources.resources
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.GenerateResource.cache
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.CoreCompileInputs.cache
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.csproj.CopyComplete
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.exe
+D:\Duy\datetimechecker-master\DateChecker\obj\Debug\DateChecker.pdb
